@@ -58,7 +58,9 @@ Push notifications, maps, authentication flows, sockets, deep linking, and more.
   ## 🚀 Featured Project
   ### 📌 **TaskMe (https://www.taskmenigeria.com/)**
 Real-time job requests, deep linking, notifications, and advanced geolocation.
+</P>
 Client app - https://play.google.com/store/apps/details?id=com.artisantechng.taskme.client&hl=en
+</P>
 Tasker app - https://play.google.com/store/apps/details?id=com.artisantechng.taskme.tasker&hl=en
 
 
