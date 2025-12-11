@@ -80,6 +80,7 @@ Tasker app - https://play.google.com/store/apps/details?id=com.artisantechng.tas
 ## 🤝 I don't mind help with
 - Project design and architecture 
 - Mobile development code optimisation
+- Writing test cases
 - Code review and discuss
 
 
