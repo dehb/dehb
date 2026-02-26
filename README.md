@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Deborah 👋🏽</h1>
 
 <p align="center">
-  <b>React Native Engineer • Mobile UI/UX Implementer • Problem Solver</b>
+  <b>React Native Engineer • Mobile UI/UX Implementer • Problem Solver • Medical Wearable Enthusiast</b>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 ## 🌟 About Me
 
 I'm a **React Native mobile developer** with strong experience building **pixel-perfect, scalable, and modern mobile applications**.  
-I specialize in turning UI/UX designs into high-quality, functional mobile experiences.
+I specialize in turning UI/UX designs into high-quality, functional mobile experiences. I have a foundation in embedded system design and development.
 
 I care deeply about:
 - Clean and maintainable code  
